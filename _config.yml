@@ -22,12 +22,12 @@ author: William Figgett
 navbar-links:
   Key Information: "key_info"
   Content:
-    - 1 - Setup RStudio: "content/1_test"
-    - 2 - DataTypes: "content/2_PCA"
-    - 3 - DataFrames: "content/3_PLSDA"
-    - 4 - Dplyr: "content/4_rCCA"
-    - 5 - Apply: "content/5_DIABLO"
-    - 6 - Data Visualisation: "content/6_test"
+    - 1 - Test1: "content/1_test"
+    - 2 - Test2: "content/2_PCA"
+    - 3 - Test3: "content/3_PLSDA"
+    - 4 - Test4: "content/4_rCCA"
+    - 5 - Test5: "content/5_DIABLO"
+    - 6 - Test6: "content/6_test"
 
 ################
 # --- Logo --- #
