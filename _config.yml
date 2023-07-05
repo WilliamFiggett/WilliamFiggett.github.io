@@ -13,7 +13,7 @@
 title: Intro to Multiomics
 
 # Your name to show in the footer
-author: Some Person
+author: William Figgett
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -22,12 +22,12 @@ author: Some Person
 navbar-links:
   Key Information: "key_info"
   Content:
-    - 1 - Setup RStudio: "content/1_setup_rstudio"
-    - 2 - DataTypes: "content/2_datatypes"
-    - 3 - DataFrames: "content/3_dataframes"
-    - 4 - Dplyr: "content/4_dplyr"
-    - 5 - Apply: "content/5_apply"
-    - 6 - Data Visualisation: "content/6_datavisualisation"
+    - 1 - Setup RStudio: "content/1_test"
+    - 2 - DataTypes: "content/2_PCA"
+    - 3 - DataFrames: "content/3_PLSDA"
+    - 4 - Dplyr: "content/4_rCCA"
+    - 5 - Apply: "content/5_DIABLO"
+    - 6 - Data Visualisation: "content/6_test"
 
 ################
 # --- Logo --- #
