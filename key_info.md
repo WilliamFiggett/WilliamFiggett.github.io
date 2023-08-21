@@ -8,12 +8,9 @@ Welcome All!
 
 
 ### Dates
-First Session
-- Day 1: 11:30 am – 5pm Tuesday 22nd August
-
-Second Session
-- TBA
-
+This is a 1-day workshop, running twice in August
+- Day 1: 10 am – 4pm Tuesday 22nd August
+- Day 2: 10 am – 4pm Thursday 24th August
 
 
 ## Before the course please make sure you have:
@@ -23,7 +20,10 @@ Second Session
  
  
 ## At the end of the workshop you will be able to:
-- ...
+- Be aware of a range of multivariate statistics functions
+- Explore datasets and extract combinations of features
+- Discuss some of the benefits/dangers of omic/multiomic experiments
+- Gain exposure to exploratory R programming
 
 
 # RStudio and R installation
