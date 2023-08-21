@@ -22,10 +22,10 @@ author: William Figgett
 navbar-links:
   Key Information: "key_info"
   Content:
-    - 1 - Test1: "content/1_test"
-    - 2 - Test2: "content/2_PCA"
-    - 3 - Test3: "content/3_PLSDA"
-    - 4 - Test4: "content/4_rCCA"
+    - Session 1 - Unsupervised Analysis: "content/Section1-UnsupervisedAnalysis"
+    - Session 2 - Supervised Analysis: "content/2_PCA"
+    - Session 3 - Two-Omic Correlation and Regression: "content/3_PLSDA"
+    - Session 4 - Multi-Omic Integration: "content/4_rCCA"
     - 5 - Test5: "content/5_DIABLO"
     - 6 - Test6: "content/6_test"
 
