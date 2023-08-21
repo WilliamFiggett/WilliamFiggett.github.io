@@ -24,7 +24,7 @@ navbar-links:
   Content:
     - 1.Unsupervised Analysis: "content/Section1-UnsupervisedAnalysis"
     - 2.Supervised Analysis: "content/Section2-SupervisedAnalysis"
-    - 3.Two-Omic Correlation and Regression: "Section3-TwoOmic"
+    - 3.Two-Omic Correlation and Regression: "content/Section3-TwoOmic"
     - 4.Multi-Omic Integration: "content/Section4-MultiOmic"
 
 ################
