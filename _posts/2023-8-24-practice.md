@@ -2,7 +2,7 @@
 layout: post
 title: Practice section answers
 subtitle: 
-tags: [intro]
+tags: [practice]
 comments: false
 ---
 
