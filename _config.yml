@@ -26,7 +26,7 @@ navbar-links:
     - 2.Supervised Analysis: "content/Section2-SupervisedAnalysis"
     - 3.Two-Omic Correlation and Regression: "content/Section3-TwoOmic"
     - 4.Multi-Omic Integration: "content/Section4-MultiOmic"
-#    - Practice Answers: "content/Practice"
+    - Practice Answers: "content/Practice"
 
 ################
 # --- Logo --- #
